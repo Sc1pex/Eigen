@@ -1,0 +1,13 @@
+.{
+    .name = .eigen,
+    .version = "5.0.1",
+    .dependencies = .{
+        .eigen = .{
+            .url = "https://gitlab.com/libeigen/eigen/-/archive/5.0.1/eigen-5.0.1.tar.gz",
+            .hash = "N-V-__8AAAw1BwGhdvWradc9fSFxv7VAlHDTAhEJyx1MJXn4",
+        },
+    },
+    .minimum_zig_version = "0.15.2",
+    .paths = .{""},
+    .fingerprint = 0x2ec6b9b1d821be2f,
+}
